@@ -1,0 +1,160 @@
+{
+    "cars": [
+      {
+        "id": 1,
+        "categoryId":1,
+        "make": "Toyota",
+        "model": "Camry",
+        "year": 2022,
+        "price": 24000,
+        "engine": "2.5L 4-Cylinder",
+        "fuelType": "Petrol",
+        "transmission": "Automatic",
+        "mileage": 10000,
+        "image": "toyota_camry.jpg",
+        "description": "Toyota Camry 2022 modeli yuqori qulaylik va yoqilg'i samaradorligini ta'minlaydi. Zamonaviy dizayn va ilg'or texnologiyalar bilan jihozlangan."
+      },
+      {
+        "id": 2,
+        "categoryId":2,
+        "make": "Ford",
+        "model": "F-150",
+        "year": 2021,
+        "price": 30000,
+        "engine": "3.5L V6",
+        "fuelType": "Diesel",
+        "transmission": "Manual",
+        "mileage": 5000,
+        "image": "ford_f150.jpg",
+        "description": "Ford F-150 – kuchli yuk tashish qobiliyatiga ega mashina. Ishonchli dvigatel va qulay interyer bilan ajralib turadi."
+      },
+      {
+        "id": 3,
+        "categoryId":1,
+        "make": "Honda",
+        "model": "Civic",
+        "year": 2020,
+        "price": 18000,
+        "engine": "1.5L 4-Cylinder",
+        "fuelType": "Petrol",
+        "transmission": "Automatic",
+        "mileage": 15000,
+        "image": "honda_civic.jpg",
+        "description": "Honda Civic 2020 modeli sport uslub va yuqori texnologiyalar bilan jihozlangan. Yoqilg'i samaradorligi va qulaylikni birlashtiradi."
+      },
+      {
+        "id": 4,
+        "categoryId":1,
+        "make": "Chevrolet",
+        "model": "Malibu",
+        "year": 2019,
+        "price": 20000,
+        "engine": "2.0L 4-Cylinder",
+        "fuelType": "Petrol",
+        "transmission": "Automatic",
+        "mileage": 20000,
+        "image": "chevrolet_malibu.jpg",
+        "description": "Chevrolet Malibu – qulay va iqtisodiy sedan. Yangi texnologiyalar va keng interyer bilan jihozlangan."
+      },
+      {
+        "id": 5,
+        "categoryId":3,
+        "make": "BMW",
+        "model": "X5",
+        "year": 2022,
+        "price": 60000,
+        "engine": "3.0L V6",
+        "fuelType": "Petrol",
+        "transmission": "Automatic",
+        "mileage": 5000,
+        "image": "bmw_x5.jpg",
+        "description": "BMW X5 – luks va qulaylikning mukammal kombinatsiyasi. Kuchli dvigatel va ilg'or xavfsizlik tizimlari bilan jihozlangan."
+      },
+      {
+        "id": 6,
+        "categoryId":1,
+        "make": "Mercedes-Benz",
+        "model": "C-Class",
+        "year": 2021,
+        "price": 50000,
+        "engine": "2.0L Turbo",
+        "fuelType": "Petrol",
+        "transmission": "Automatic",
+        "mileage": 12000,
+        "image": "mercedes_c_class.jpg",
+        "description": "Mercedes-Benz C-Class – yuqori darajadagi komfort va texnologiyalar bilan jihozlangan. Zamonaviy dizayn va qulay interyer taqdim etadi."
+      },
+      {
+        "id": 7,
+        "categoryId":1,
+        "make": "Tesla",
+        "model": "Model S",
+        "year": 2022,
+        "price": 75000,
+        "engine": "Electric",
+        "fuelType": "Electric",
+        "transmission": "Automatic",
+        "mileage": 3000,
+        "image": "tesla_model_s.jpg",
+        "description": "Tesla Model S – ilg'or elektr avtomobil. Yuqori tezlik, uzoq masofaga borish imkoniyati va innovatsion texnologiyalar bilan jihozlangan."
+      },
+      {
+        "id": 8,
+        "categoryId":1,
+        "make": "Audi",
+        "model": "A6",
+        "year": 2020,
+        "price": 45000,
+        "engine": "3.0L V6",
+        "fuelType": "Petrol",
+        "transmission": "Automatic",
+        "mileage": 10000,
+        "image": "audi_a6.jpg",
+        "description": "Audi A6 – yuqori sifatli materiallar va zamonaviy dizayn bilan ajralib turadi. Keng interyer va qulay haydash tajribasi taqdim etadi."
+      },
+      {
+        "id": 9,
+        "categoryId":1,
+        "make": "Hyundai",
+        "model": "Elantra",
+        "year": 2021,
+        "price": 20000,
+        "engine": "2.0L 4-Cylinder",
+        "fuelType": "Petrol",
+        "transmission": "Automatic",
+        "mileage": 7000,
+        "image": "hyundai_elantra.jpg",
+        "description": "Hyundai Elantra – sportiv dizayn va yuqori yoqilg'i samaradorligini ta'minlaydi. Zamonaviy xavfsizlik tizimlari bilan jihozlangan."
+      },
+      {
+        "id": 10,
+        "categoryId": 1,
+        "make": "Nissan",
+        "model": "Altima",
+        "year": 2019,
+        "price": 22000,
+        "engine": "2.5L 4-Cylinder",
+        "fuelType": "Petrol",
+        "transmission": "Automatic",
+        "mileage": 14000,
+        "image": "nissan_altima.jpg",
+
+
+        "description": "Nissan Altima – qulay va ishonchli sedan. Yuqori texnologiyalar va keng interyer bilan ajralib turadi."
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "Sedan"
+    },
+    {
+      "id": 2,
+      "name": "Truck"
+    },
+    {
+      "id": 3,
+      "name": "SUV"
+    }
+  ]
+}
